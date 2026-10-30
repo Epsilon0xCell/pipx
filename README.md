@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # pipx
 Use pipx to install pip packages
 
