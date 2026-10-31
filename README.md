@@ -1,11 +1,9 @@
 ![Banner](banner.png)
 
 # pipx
-Use pipx to install pip packages
 
+This repo is a placeholder page. It is not the pipx project, and it holds no pipx code.
 
-```
-brew install pipx
-pipx install package_name
-pipx ensurepath
-```
+The real pipx project lives at github.com/pypa/pipx. Go there for the tool, its source, and its install instructions.
+
+I keep this page only as a placeholder. Nothing in this repo installs anything.
